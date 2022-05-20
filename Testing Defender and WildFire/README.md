@@ -1,6 +1,6 @@
 ## To test Defender to WildFire communication
 
-To get Compute WildFire api key go to Console and Manage > System then open browser devtools, network tab, then click WildFire and view **wildfire** response for apiKey:
+To get Compute WildFire api key go to Console and Manage > System then open browser devtools, network tab, then click WildFire and view **wildfire** response for apiKey: (you can also get the apiKey from your [WildFire Account page](https://wildfire.paloaltonetworks.com/wildfire/account))
 ![](./images/2022-05-20-08-09-38.png)
 
 #### Get test file:
