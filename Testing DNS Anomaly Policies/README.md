@@ -16,12 +16,18 @@ bash <(curl -s https://raw.githubusercontent.com/sullivan1337/pcs-public-info/ma
 ```
 
 #### To download script and run
-DGA:
+**DGA**:
+Download:
 ```
 wget https://raw.githubusercontent.com/sullivan1337/pcs-public-info/main/Testing%20DNS%20Anomaly%20Policies/dga-domains.sh
 ```
+Run: 
+`bash dga-domains.sh`
 
-Crypto: 
+**Crypto**: 
+Download:
 ```
 wget https://raw.githubusercontent.com/sullivan1337/pcs-public-info/main/Testing%20DNS%20Anomaly%20Policies/crypto-mining.sh
 ```
+Run:
+`bash crypto-mining.sh`
