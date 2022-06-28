@@ -1,0 +1,1 @@
+dig prisma-crypto-pool-test.cloudthreat.report

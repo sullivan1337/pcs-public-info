@@ -1,0 +1,1 @@
+for i in bckjjjfhqqhp.com jwnmvquyrfrg.com lgjcbgloohhk.com cdqyttygbybm.com botonsslkfmr.com lsjidttqrxoj.com jefwnvckvwyj.com ; do dig $i ; done
