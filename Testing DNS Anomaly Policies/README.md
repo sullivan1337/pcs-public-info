@@ -17,7 +17,7 @@ bash <(curl -s https://raw.githubusercontent.com/sullivan1337/pcs-public-info/ma
 ```
 
 #### To download script and run
-**DGA**:
+**DGA domain request activity**:
 
 Download:
 ```
