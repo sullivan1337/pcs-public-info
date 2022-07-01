@@ -2,21 +2,23 @@
 
 ### Usage
 
-#### To just run script
-Example `bash <(curl -s http://mywebsite.example/myscript.txt)`
+From a monitored instance execute the following instructions to generate Prisma Cloud DNS anomalies.
 
-DGA:
+#### To just run script
+
+DGA domain request activity:
 ```
 bash <(curl -s https://raw.githubusercontent.com/sullivan1337/pcs-public-info/main/Testing%20DNS%20Anomaly%20Policies/dga-domains.sh)
 ```
 
-Crypto:
+Cryptomining domain request activity:
 ```
 bash <(curl -s https://raw.githubusercontent.com/sullivan1337/pcs-public-info/main/Testing%20DNS%20Anomaly%20Policies/crypto-mining.sh)
 ```
 
 #### To download script and run
 **DGA**:
+
 Download:
 ```
 wget https://raw.githubusercontent.com/sullivan1337/pcs-public-info/main/Testing%20DNS%20Anomaly%20Policies/dga-domains.sh
@@ -24,7 +26,7 @@ wget https://raw.githubusercontent.com/sullivan1337/pcs-public-info/main/Testing
 Run: 
 `bash dga-domains.sh`
 
-**Crypto**: 
+**Cryptomining domain request activity**: 
 Download:
 ```
 wget https://raw.githubusercontent.com/sullivan1337/pcs-public-info/main/Testing%20DNS%20Anomaly%20Policies/crypto-mining.sh
